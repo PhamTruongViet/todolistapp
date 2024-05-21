@@ -1,0 +1,12 @@
+{
+  "lists": [
+    {
+      "icon": "calenderEdit",
+      "label": "Ngày đến hạn"
+    },
+    {
+      "icon": "timeEdit",
+      "label": "Thời gian"
+    }
+  ]
+}
